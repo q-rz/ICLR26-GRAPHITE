@@ -12,4 +12,6 @@ Graph homophily booster: Rethinking the role of discrete features on heterophili
 }
 ```
 
+![Illustration of GRAPHITE](https://github.com/q-rz/ICLR26-GRAPHITE/raw/main/figures/fig-illust.svg)
+
 Under construction ...

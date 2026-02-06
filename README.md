@@ -5,7 +5,7 @@ Graph homophily booster: Rethinking the role of discrete features on heterophili
 
 ```bibtex
 @inproceedings{qiu2026graph,
-  title={Graph homophily booster: Rethinking the role of discrete features on heterophilic graphs},
+  title={Graph homophily booster: Reimagining the role of discrete features on heterophilic graphs},
   authors={Qiu, Ruizhong and Li, Ting-Wei and Li, Gaotang and Tong, Hanghang},
   booktitle={The Fourteenth International Conference on Learning Representations},
   year={2026}
